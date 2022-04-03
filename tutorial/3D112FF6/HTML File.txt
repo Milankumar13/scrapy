@@ -22,7 +22,7 @@
     <head>
         <link rel="shortcut icon" href="/decorations/layout/ingrid/images/favicon.ico" />        
       
-<title>Errichtung und Betrieb von acht Windkraftanlagen im Windpark Münstedt - UVP</title>
+<title>Errichtung und Betrieb einer Anlage zur Herstellung von Bioziden, Az.: 900-0003754-0002/IBG-0001-Ja - UVP</title>
 <!--
             <base href="https://www.uvp-verbund.de:443/" />
     -->
@@ -179,7 +179,7 @@
                 <span>Zulassungsverfahren</span>
             </div>
             <h1>
-                Errichtung und Betrieb von acht Windkraftanlagen im Windpark Münstedt
+                Errichtung und Betrieb einer Anlage zur Herstellung von Bioziden, Az.: 900-0003754-0002/IBG-0001-Ja
             </h1>
                                                 
             <div class="helper text date">
@@ -192,7 +192,7 @@
     <div class="row content-small">
         <div class="columns">
                                                    <h3 class="title-font">Allgemeine Vorhabenbeschreibung</h3>
-                            <p>Die Windpark Münstedt Infra GmbH, beantragt gemäß § 4 des Bundes-Immissionsschutzgesetzes (BImSchG) die Genehmigung zur Errichtung und zum Betrieb von acht Windenergieanlagen des Typs VESTAS V150 mit verschiedenen Nabenhöhen von 125-149 m, einem Rotordurchmesser von 150 m und einer Nennleistung von 5.6 MW.<br/><br/>Bei dem beantragten Vorhaben handelt es sich um genehmigungsbedürfte Anlagen im Sinne des § 4 BImSchG. Die Anlage ist im Anhang zu § 1 der Verordnung über genehmigungsbedürftige Anlagen (4. BImSchV) unter Ziffer 1.6.2 aufgeführt. <br/><br/>Für das Vorhaben ist gemäß § 5 des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG) eine Umweltverträglichkeitsprüfung durchzuführen. Ein entsprechender UVP-Bericht wurde durch die Antragstellerin eingereicht.</p>
+                            <p>Die Firma Beulco GmbH & Co. KG, Kölner Straße 92, 57439 Attendorn, hat mit Datum vom 18.01.2022 die Erteilung einer Genehmigung nach § 4 Bundes-Immissionsschutzgesetz (BImSchG) zur Errichtung und Betrieb einer Anlage zur Herstellung von Bioziden auf ihrem Grundstück in 57439 Attendorn, Kölner Straße 92, Gemarkung Attendorn, Flur 1, Flurstück 426 beantragt<br/><br/>Das beantragte Vorhaben umfasst im Wesentlichen folgende Maßnahmen:<br/><br/>Die Errichtung und den Betrieb einer membranelektrolytischen Anlage zur Herstellung von Desinfektionsmitteln mit dem Wirkstoff Aktivchlor mit einer Kapazität von 8.900 m³ Desinfektionsmittel im Jahr.</p>
                     </div>
     </div>
     <div class="row content-small">
@@ -200,8 +200,8 @@
                                                                                                         <h3 class="title-font">UVP-Kategorie</h3>
                             <div class="list-item">
                      <div>
-                <span class="ic-ic-UVPG-1"></span>
-                <span class="text">Wärmeerzeugung, Bergbau und Energie</span>
+                <span class="ic-ic-UVPG-4"></span>
+                <span class="text">Chemische Erzeugnisse, Arzneimittel, Mineralölraffination und Weiterverarbeitung</span>
              </div>
                 </div>
             </div>
@@ -325,8 +325,8 @@
     }
 </script>                        <div id="map" style="height: 400px; width:100%;"></div>
                         <script>
-                            var southWest = L.latLng( 52.2267,  10.2456),
-                            northEast = L.latLng( 52.2524,  10.3084),
+                            var southWest = L.latLng( 51.1184,  7.8907),
+                            northEast = L.latLng( 51.1193,  7.8934),
                             bounds = L.latLngBounds(southWest, northEast);
                             
                             var osm = getOSMLayer('<br>Die Hintergrundkarte dient der Orientierung. Kein Bezug zu den Verfahrensdaten.');
@@ -336,7 +336,7 @@
                                 var popLocation= e.latlng;
                                 var popup = L.popup()
                                 .setLatLng(popLocation)
-                                .setContent('<p>Koordinaten:<br /> 52.2267\,  10.2456<br/> 52.2524,  10.3084</p>')
+                                .setContent('<p>Koordinaten:<br /> 51.1184\,  7.8907<br/> 51.1193,  7.8934</p>')
                                 .openOn(map);
                             }).addTo(map);
                             
@@ -350,38 +350,35 @@
                     <h3>Adressen</h3>
                                                             <h4 class="no-margin">Ansprechpartner</h4>
                     <p>
-                                                                Landkreis Peine, Niedersachsen
+                                                                                                Bezirksregierung Arnsberg
+                                <br>
+                                                                    Dezernat 53 - Immissionsschutz
                     </p>
                     <p>
-                                                    Burgstraße 1
+                                                    Seibertzstr. 1
                             <br>
-                                                                                                        31224
-                                                                            Peine
+                                                                                                        59821
+                                                                            Arnsberg
                                                                             <br>
-                                                                                            </p>
+                                                                                                    Deutschland
+                                                                        </p>
                     <table>
                                                 <tr>
                             <td>E-Mail:</td>
                             <td>
-                                <a href="mailto:mail@landkreis-peine.de">mail@landkreis-peine.de</a>
+                                <a href="mailto:poststelle@bezreg-arnsberg.nrw.de">poststelle@bezreg-arnsberg.nrw.de</a>
                             </td>
                         <tr>
                                                                         <tr>
                             <td>Telefon:</td>
                             <td>
-                                05171 / 401 0
+                                02931 82-0
                             </td>
                         <tr>
-                                                                        <tr>
-                            <td>Fax:</td>
-                            <td>
-                                05171 / 401 7700
-                            </td>
-                        <tr>
-                                                                        <tr>
+                                                                                                <tr>
                             <td>URL:</td>
                             <td>
-                                <a href="https://www.landkreis-peine.de/">https://www.landkreis-peine.de/</a>
+                                <a href="https://www.bezreg-arnsberg.nrw.de">https://www.bezreg-arnsberg.nrw.de</a>
                             </td>
                         <tr>
                                             </table>
@@ -394,7 +391,7 @@
                 </div>
                 <noscript>
                     <div class="zip-download">
-                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen">
+                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=1BC49B12-659C-4479-8C23-79C03D112FF6&plugid=/ingrid-group:ige-iplug-nw" title="Alle Dokumente als ZIP-Datei herunterladen">
                             <span class="ic-ic-download"></span>
                         </a>
                     </div>
@@ -420,16 +417,28 @@
                                                                                                                         <h4 class="title-font">Auslegungsinformationen</h4>
                 <div class="document-list">
                     <div class="list-item">
-                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/2B14864C-7F88-469F-9EA8-0213DAB1091D/Bekanntmachung%20Windpark%20M%C3%BCnstedt.pdf" title="Bekanntmachung Windpark Münstedt">Bekanntmachung Windpark Münstedt</a>
+                                                                <a target="_blank" class="link download" href="https://www.uvp-verbund.de/documents/ingrid-group_ige-iplug-nw/1BC49B12-659C-4479-8C23-79C03D112FF6/2022-03-25%20Bekanntmachung%20Verfahren%20Ja.docx" title="Öffentliche Bekanntmachung">Öffentliche Bekanntmachung</a>
             <span class="text">
             (
-                        Bekanntmachung Windpark Münstedt.pdf
+                        2022-03-25 Bekanntmachung Verfahren Ja.docx
             <span class="downloadText"></span>
             )
             </span>
                             </div>
                 </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
+                                                                                        <h4 class="title-font">UVP-Bericht, ggf. Antragsunterlagen</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://www.uvp-verbund.de/documents/ingrid-group_ige-iplug-nw/1BC49B12-659C-4479-8C23-79C03D112FF6/Antrag%20Beulco%20Biozidanlage.pdf" title="Kurzbeschreibung">Kurzbeschreibung</a>
+            <span class="text">
+            (
+                        Antrag Beulco Biozidanlage.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
                                 <span class="ic-ic-bullet icon"></span>
                             </h2>
                         </div>
@@ -463,8 +472,8 @@
             }
         });
         $('.zip-download').each(function(index) {
-            var docuuid = '2B14864C-7F88-469F-9EA8-0213DAB1091D';
-            var plugid = '/ingrid-group:ige-iplug-ni';
+            var docuuid = '1BC49B12-659C-4479-8C23-79C03D112FF6';
+            var plugid = '/ingrid-group:ige-iplug-nw';
             if(docuuid !== '' && plugid !== '') {
                 var element = $(this);
                 element.append('<span>Dokumentenarchiv (Zip) wird erstellt ...</span>');
@@ -475,7 +484,7 @@
                         if (this.status === 200) {
                             element.find('span').addClass('is-hidden');
                             if(this.response != "") {
-                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
+                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=1BC49B12-659C-4479-8C23-79C03D112FF6&plugid=/ingrid-group:ige-iplug-nw" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
                                 content = content + '<span class="text"><span class="downloadText">' + convertFileSize(this.response, true, true) + '</span></span>'
                                 element.append(content);
                             }
@@ -492,22 +501,22 @@
             <footer>
     <div class="footer-buttons-bar show-for-medium hide-for-print">
         <div class="social-buttons">
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26docid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="Twitter">
         <span class="ic-ic-twitter"></span><span class="text"></span>
     </a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26docid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="Facebook">
         <span class="ic-ic-facebook"></span><span class="text"></span>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26docid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="LinkedIn">
         <span class="ic-ic-linkedin"></span><span class="text"></span>
     </a>
-    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&docid=2B14864C-7F88-469F-9EA8-0213DAB1091D&lang=de&plugid=/ingrid-group:ige-iplug-ni" class="button round social" target="_blank" title="WhatsApp">
+    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige?docuuid=1BC49B12-659C-4479-8C23-79C03D112FF6&docid=1BC49B12-659C-4479-8C23-79C03D112FF6&lang=de&plugid=/ingrid-group:ige-iplug-nw" class="button round social" target="_blank" title="WhatsApp">
         <span class="ic-ic-whatsapp"></span><span class="text"></span>
     </a>
-    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="XING">
+    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26docid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="XING">
         <span class="ic-ic-xing"></span><span class="text"></span>
     </a>
-    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="E-Mail">
+    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26docid%3D1BC49B12-659C-4479-8C23-79C03D112FF6%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="E-Mail">
         <span class="ic-ic-mailto"></span><span class="text"></span>
     </a>
     <button id="share-buttons" class="button round social share" title="ingrid.page.share">

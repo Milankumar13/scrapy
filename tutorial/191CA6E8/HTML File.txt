@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+    <head>
+        <link rel="shortcut icon" href="/decorations/layout/ingrid/images/favicon.ico" />        
+      
+<title>wasserrechtliches Planfeststellungsverfahren im Bereich Windpark &quot;Culturweg - Barghorn&quot; - UVP</title>
+<!--
+            <base href="https://www.uvp-verbund.de:443/" />
+    -->
+<link rel="prefetch" href="/decorations/layout/ingrid/images/template/icons.svg" />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta name="description" content="Die Trefferliste enthält alle Ergebnisse, die mit Ihrer Suchanfrage übereinstimmen. Dazu zählen Verweise auf Webseiten, Messdaten, Karten oder Metadaten. " />
+<meta name="author" content="&copy; 2022 Landesbetrieb Geoinformation und Vermessung" />
+<meta name="keywords" lang="de" content="UVP, Trefferanzeige, Ergebnis, Suchergebnis, Resultate" />
+<meta name="copyright" content="&copy; 2022 Landesbetrieb Geoinformation und Vermessung" />            <meta name="robots" content="index,follow" />
+        
+
+<link rel="stylesheet" href="/decorations/layout/uvp/css/main.css">
+<link rel="stylesheet" href="/decorations/layout/ingrid/css/override.css">
+<link rel="stylesheet" href="/decorations/layout/ingrid/css/print.css" media="print">
+<!-- swiper -->
+<link rel="stylesheet" href="/decorations/layout/ingrid/scripts/swiper/css/swiper.min.css">
+
+
+  <script src="/decorations/layout/ingrid/scripts/ingrid.js"></script>
+<!-- Global scripts -->
+<script src="/decorations/layout/ingrid/scripts/modernizr.custom.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/jquery-2.1.4.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/fastclick.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/jquery.nicescroll.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/foundation.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/select2.full.js"></script>
+<script src="/decorations/layout/uvp/scripts/main.js"></script>
+
+<!-- zxcvbn -->
+<script src="/decorations/layout/ingrid/scripts/zxcvbn/zxcvbn.js"></script>
+
+<!-- swiper -->
+<script src="/decorations/layout/ingrid/scripts/swiper/js/swiper.min.js"></script>
+
+                
+    </head>
+    <body>
+            <div class="container">
+                        <div class="header-menu" style="display: none;" role="navigation" aria-label="Navigation Menu">
+    <div class="header-menu-close">
+        <button type="button" class="button ">Menü<span class="ic-ic-cross"></span></button>
+    </div>
+    <div class="menu-main-links">
+            <div class="highlighted">
+                                                                                                                                          <a href="https://www.uvp-verbund.de:443/freitextsuche" class="header-menu-entry " title="Finden Sie UVP-Vorhaben"><span class="text">Suche</span></a>
+                                                                                                                                                            <a href="https://www.uvp-verbund.de:443/kartendienste" class="header-menu-entry " title="UVP-Vorhaben in der Karte"><span class="text">Karte</span></a>
+                                                                                                                                                                                                                                                                                    <a href="https://www.uvp-verbund.de:443/hintergrundinformationen" class="header-menu-entry " title="Informationen zum Portal und verfahrensführende Behörden"><span class="text">&Uuml;ber Uns</span></a>
+                                                                                                                                            <a href="https://www.uvp-verbund.de:443/informationsanbieter" class="header-menu-entry " title="Kooperationspartner und Verfahrensführende Behörden"><span class="text">Behörden</span></a>
+                                                                      </div>
+                                                                    <a href="https://www.uvp-verbund.de:443/kontakt" title="Ihre Nachricht, Fragen oder Anregungen direkt an UVP" ><span class="text">Kontakt</span></a>
+                                                        <a href="https://www.uvp-verbund.de:443/impressum" title="Inhaltlich und technisch Verantwortliche, Nutzungsbedingungen, Haftungsausschluss" ><span class="text">Impressum</span></a>
+                                                                  <a href="https://www.uvp-verbund.de:443/datenschutzbestimmung" title="Unsere Verpflichtung zum Umgang mit persönlichen Informationen" ><span class="text">Datenschutz</span></a>
+                                                        <a href="https://www.uvp-verbund.de:443/barrierefreiheit" title="Barrierefreiheit" ><span class="text">Barrierefreiheit</span></a>
+                  </div>
+    <div class="menu-sub-links">
+                                                                </div>
+</div> 
+                <header>
+    <div class="row">
+        <div class="columns small-7 medium-9 large-7 xlarge-6">
+    <div class="logo" role="banner">
+        <a href="https://www.uvp-verbund.de:443/startseite" class="hide-for-medium hide-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+        <a href="https://www.uvp-verbund.de:443/startseite" class="show-for-medium hide-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo-mit-tag.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+        <a href="https://www.uvp-verbund.de:443/startseite" class="show-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo-xsmall.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+    </div>
+</div>        <div class="columns xsmall-16 small-15 medium-9 large-7 xlarge-6 nav-tabs">
+    <div class="menu-tab-row" role="navigation" aria-label="Navigation Header">
+                                                                                                          
+                                    <a class="menu-tab is-selected" href="https://www.uvp-verbund.de:443/freitextsuche" title="Finden Sie UVP-Vorhaben">
+                <div class="link-menu-tab">
+                    <span class="ic-ic-lupe"></span>
+                    <span class="text">Suche</span>
+                </div>
+            </a>
+                                                                                                
+                            <a class="menu-tab " href="https://www.uvp-verbund.de:443/kartendienste" title="UVP-Vorhaben in der Karte">
+                <div class="link-menu-tab">
+                    <span class="ic-ic-karten"></span>
+                    <span class="text">Karte</span>
+                </div>
+            </a>
+                                                                                                                    
+                                              </div>
+</div>        <div class="columns">
+            <div class="header-menu-open">
+                                    <button type="button" class="button xsmall-button"><span class="ic-ic-hamburger"></span></button>
+                                <button type="button" class="button small-button">Menü<span class="ic-ic-hamburger"></span></button>
+            </div>
+        </div>
+    </div>
+</header>
+            <div class="body" role="main">								
+			
+
+<!--  BEGIN: clear/decorator.vm -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="detail">
+    <div class="banner-noimage">
+      <div class="page-wrapper">
+        <div class="row content-small">
+          <div class="columns">
+            <a class="helper icon" href="/freitextsuche">
+                <span class="ic-ic-arrow-left"></span>
+                <span class="text">Alle Suchergebnisse</span>
+            </a>
+            <br>
+            <br>
+            <div class="helper text">
+                <span>Zulassungsverfahren</span>
+            </div>
+            <h1>
+                wasserrechtliches Planfeststellungsverfahren im Bereich Windpark "Culturweg - Barghorn"
+            </h1>
+                                                
+            <div class="helper text date">
+                <span>Zuletzt geändert 01.04.2022</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row content-small">
+        <div class="columns">
+                                                   <h3 class="title-font">Allgemeine Vorhabenbeschreibung</h3>
+                            <p>Dem Landkreis Wesermarsch liegt ein Antrag der Windkonzept Projektentwicklung GmbH & Co. KG, Mansholter Straße 30, 26215 Wiefelstede auf Planfeststellung für die Herstellung, Verlegung, Verrohrung, Verfüllung von Gewässern sowie Verlegung von Durchlässen gemäß den §§ 68 Wasserhaushaltsgesetz i.V.m. 108, 109 Nds. Wassergesetz in der Gemeinde Ovelgönne, Barghorn, vor.<br/><br/>Die Windkonzept Projektentwicklungs GmbH & Co. KG beabsichtigt, anlässlich der verstärkten Nachfrage nach Flächen für die Nutzung der Windenergie vor dem Hintergrund der aktuellen Anforderungen an die umwelt- und klimaschonende Energieerzeugung weitere Windenergieanlagen aufzustellen. Bei dem geplanten Vorhaben handelt es sich um ein privilegiertes Vorhaben im Außenbereich gemäß § 35 Abs. 1 Baugesetzbuch.<br/><br/>Das Plangebiet für die Aufstellung der vorgesehenen neun Windenergieanlagen umfasst eine Fläche von ca. 70 ha und befindet sich im südwestlichen Gemeindegebiet von Ovelgönne nahe der Ortschaft Barghorn. Es liegt südlich sowie beidseitig des Culturweges und westlich der Barghorner Straße.<br/><br/>Für die Erschließung des Windparks ist die Verfüllung und Verrohrung von Grabenabschnitten erforderlich. Hierfür ist ein separates wasserrechtliches Planfeststellungsverfahren durchzuführen. Es werden insgesamt 38 Grabenabschnitte mit einer Gesamtlänge von ca. 1.978 m verfüllt bzw. verrohrt. Im Durchschnitt nehmen die überplanten Grabenabschnitte vorwiegend eine Länge von ungefähr 10 bis 30 m ein. Einzelne Abschnitte sind mit 55 m bzw. 150 m und 166 m noch einmal deutlich länger. Für die Aufrechterhaltung sämtlicher Vorfluten sind ca. 1.200 m Grabenneubauten vorgesehen.<br/><br/>Aufgrund der Entscheidung des VG Oldenburg vom 19.06.2019 (1A2654/18) soll ein separates wasserrechtliches Planfeststellungsverfahren durchgeführt werden. Entsprechend wird eine Umweltverträglichkeitsprüfung nach § 4 UVPG ausgeführt.</p>
+                    </div>
+    </div>
+    <div class="row content-small">
+        <div class="columns">
+                                                                                                        <h3 class="title-font">UVP-Kategorie</h3>
+                            <div class="list-item">
+                     <div>
+                <span class="ic-ic-UVPG-13"></span>
+                <span class="text">Wasserwirtschaftliche Vorhaben</span>
+             </div>
+                </div>
+            </div>
+    </div>
+            <div class="unbreak">
+        <div class="row content-small">
+            <div class="columns">
+                                                                                    <h3 class="title-font">Raumbezug</h3>
+            </div>
+        </div>
+        <div class="row no-padding">
+            <div class="columns form">
+                        <link rel="stylesheet" href="/decorations/layout/ingrid/scripts/leaflet.awesome-markers/leaflet.awesome-markers.css" />
+<script src="/decorations/layout/uvp/scripts/vendor/leaflet.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/leaflet.markercluster.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.awesome-markers/leaflet.awesome-markers.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.spin/spin.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.spin/leaflet.spin.min.js"></script>
+<link rel="stylesheet" href="/decorations/layout/ingrid/scripts/leaflet.gesture-handling/leaflet-gesture-handling.min.css" />
+<script src="/decorations/layout/ingrid/scripts/leaflet.gesture-handling/leaflet-gesture-handling.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.wicket/wicket.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.wicket/wicket-leaflet.js"></script>
+
+<script>
+    function getOSMLayer(attribution){
+        var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var osmAttrib='&copy; <a target="_blank" class="external-link" href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+        if(attribution){
+            osmAttrib = osmAttrib + "" + attribution;
+        }
+        return new L.TileLayer(osmUrl, {attribution: osmAttrib});
+    }
+
+    function getWMSLayer(layerUrl, layerName, attribution){
+        var osmAttrib='&copy; <a target="_blank" class="external-link" href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+        if(attribution){
+            osmAttrib += attribution;
+        }
+        return new L.tileLayer.wms(layerUrl, {
+            layers: layerName,
+            attribution: osmAttrib
+        });
+    }
+
+    function addLeafletMap(baselayers, bounds, latlng, zoom){
+        return addLeafletMapWithId('map', baselayers, bounds, latlng, zoom);
+    }
+
+    function addLeafletMapWithId(mapId, baselayers, bounds, latlng, zoom){
+        var epsg = L.CRS.EPSG3857;
+        if('3857'.length > 0) {
+            epsg = L.CRS.EPSG3857;
+        }
+        var map = new L.Map(mapId, {
+           crs: epsg,
+           layers: baselayers
+        });
+        if(bounds){
+          map.fitBounds(bounds);
+        } else if(latlng) {
+          map.setView(latlng, zoom || 6);
+        } else {
+          map.setView(new L.LatLng(51.3, 10), 6);
+        }
+        return map;
+    }
+
+    function addLeafletHomeControl(map, title, position, icon, bounds, padding, fontSize){
+        var HomeControl = L.Control.extend({
+            options: {
+                position: position ? position : 'topleft'
+            },
+            onAdd: function (map) {
+                var container = L.DomUtil.create('div', 'leaflet-control-home leaflet-bar');
+                var link = L.DomUtil.create('a', icon, container);
+                link.href = '#';
+                if(padding){
+                  link.style.padding = padding;
+                }
+                if(fontSize){
+                  link.style.fontSize = fontSize;
+                }
+                link.title = title;
+                L.DomEvent.addListener(link, 'click', this._homeClick, this);
+                return container;
+            },
+            _homeClick: function(e) {
+                L.DomEvent.stop(e);
+                if(bounds){
+                    var features = [];
+                    map.eachLayer(function(layer) {
+                        if(layer && layer.getBounds) {
+                            features.push(layer);
+                        }
+                    })
+                    if(features.length > 0) {
+                        bounds = L.featureGroup(features).getBounds();
+                    }
+                    map.fitBounds(bounds);
+                }
+            }
+        });
+        map.addControl(new HomeControl({}));
+    }
+
+    function resizeMap(map){
+        if(map){
+            map._onResize();
+        }
+    }
+    
+    function disableLeafletMapTouchControl(map) {
+        map.removeControl(map.zoomControl);
+        map.dragging.disable();
+        map.zoomControl.disable();
+        map.touchZoom.disable();
+        map.doubleClickZoom.disable();
+        map.scrollWheelZoom.disable();
+        map.boxZoom.disable();
+        map.keyboard.disable();
+    }
+</script>                        <div id="map" style="height: 400px; width:100%;"></div>
+                        <script>
+                            var southWest = L.latLng( 53.2685,  8.2576),
+                            northEast = L.latLng( 53.3063,  8.3475),
+                            bounds = L.latLngBounds(southWest, northEast);
+                            
+                            var osm = getOSMLayer('<br>Die Hintergrundkarte dient der Orientierung. Kein Bezug zu den Verfahrensdaten.');
+                            var map = addLeafletMap([osm], bounds);
+                            map.gestureHandling.enable();
+                            var rect = L.rectangle(bounds, {color: 'green', weight: 3, fill: true}).on('click', function (e) {
+                                var popLocation= e.latlng;
+                                var popup = L.popup()
+                                .setLatLng(popLocation)
+                                .setContent('<p>Koordinaten:<br /> 53.2685\,  8.2576<br/> 53.3063,  8.3475</p>')
+                                .openOn(map);
+                            }).addTo(map);
+                            
+                            addLeafletHomeControl(map, 'Zoom auf initialen Kartenausschnitt', 'topleft', 'ic-ic-center', bounds, '', '23px');
+                        </script>
+                                                            </div>
+        </div>
+    </div>
+        <div class="row content-small">
+        <div class="columns form">
+                    <h3>Adressen</h3>
+                                                            <h4 class="no-margin">Ansprechpartner</h4>
+                    <p>
+                                                                Landkreis Wesermarsch, Niedersachsen
+                    </p>
+                    <p>
+                                                    Poggenburger Straße 15
+                            <br>
+                                                                                                        26919
+                                                                            Brake
+                                                                            <br>
+                                                                                                    Deutschland
+                                                                        </p>
+                    <table>
+                                                <tr>
+                            <td>E-Mail:</td>
+                            <td>
+                                <a href="mailto:landkreis-wesermarsch@lkbra.de">landkreis-wesermarsch@lkbra.de</a>
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>Telefon:</td>
+                            <td>
+                                04401 927-0
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>Fax:</td>
+                            <td>
+                                04401 3471
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>URL:</td>
+                            <td>
+                                <a href="http://www.landkreis-wesermarsch.de/">http://www.landkreis-wesermarsch.de/</a>
+                            </td>
+                        <tr>
+                                            </table>
+                                                </div>
+    </div>
+    <div id="timeline" class="row content-small">
+        <div class="columns">
+            <h1>Verfahrensschritte
+                                <div class="zip-download">
+                </div>
+                <noscript>
+                    <div class="zip-download">
+                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=122F7342-4566-4811-86CA-A336191CA6E8&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen">
+                            <span class="ic-ic-download"></span>
+                        </a>
+                    </div>
+                </noscript>
+                            </h1>
+            <div class="timeline"> 
+                <div class="row">
+                    <div class="columns">
+                        <div class="timeline-graph"></div>
+                        <div class="timeline-text">
+                                                                                                                                                                <h2 class="icon-dot">
+                                Entscheidung über die Zulassung
+                                <span class="ic-ic-timeline-bullet icon"></span>
+                                                        </h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <h4 class="no-margin">
+            Datum der Entscheidung
+                    </h4>
+        <p>
+                    21.03.2022
+                        </p>
+                                                                                                                        <h4 class="title-font">Auslegungsinformationen</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Bekanntmachung%20PFB%20Homepage.pdf" title="Bekanntmachung PFB Homepage">Bekanntmachung PFB Homepage</a>
+            <span class="text">
+            (
+                        Bekanntmachung PFB Homepage.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Bekanntmachung%20PFB%20NWZ.pdf" title="Bekanntmachung PFB NWZ">Bekanntmachung PFB NWZ</a>
+            <span class="text">
+            (
+                        Bekanntmachung PFB NWZ.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                        <h4 class="title-font">Entscheidung</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/68%205520%2024%2051%20-%20361%20PF%20Beschluss%20Culturweg%2021%2003%202022.pdf" title="68 5520 24 51 - 361 PF Beschluss Culturweg 21 03 2022">68 5520 24 51 - 361 PF Beschluss Culturweg 21 03 2022</a>
+            <span class="text">
+            (
+                        68 5520 24 51 - 361 PF Beschluss Culturweg 21 03 2022.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                                                                            <h2 class="icon-check">
+                                Öffentliche Auslegung
+                                <span class="ic-ic-check icon"></span>
+                                                        </h2>
+                                                                                                            <h4 class="no-margin">
+            Zeitraum der Auslegung
+                            <span class="ic-ic-info js-popup" data-title="Hinweis" data-content="Nähere Informationen entnehmen Sie bitte den Auslegungsinformationen."></span>
+                    </h4>
+        <p>
+                    08.02.2021
+                            - 08.03.2021
+                </p>
+                                                                                                                        <h4 class="title-font">Auslegungsinformationen</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Oeffentliche%20Bekanntmachung%20WP%20Culturweg.pdf" title="Oeffentliche Bekanntmachung WP Culturweg">Oeffentliche Bekanntmachung WP Culturweg</a>
+            <span class="text">
+            (
+                        Oeffentliche Bekanntmachung WP Culturweg.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                        <h4 class="title-font">UVP-Bericht, ggf. Antragsunterlagen</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!!%20Deckblatt-Antragsformular-allgmeine%20HInweise%20Planfeststellungsverfahren.pdf" title="!! Deckblatt-Antragsformular-allgmeine HInweise Planfeststellungsverfahren">!! Deckblatt-Antragsformular-allgmeine HInweise Planfeststellungsverfahren</a>
+            <span class="text">
+            (
+                        !! Deckblatt-Antragsformular-allgmeine HInweise Planfeststellungsverfahren.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!!%20Email%20Durchfuehrung%20UVP.pdf" title="!! Email Durchfuehrung UVP">!! Email Durchfuehrung UVP</a>
+            <span class="text">
+            (
+                        !! Email Durchfuehrung UVP.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!!%20Verzeichnis%20der%20Entwurfsunterlagen.pdf" title="!! Verzeichnis der Entwurfsunterlagen">!! Verzeichnis der Entwurfsunterlagen</a>
+            <span class="text">
+            (
+                        !! Verzeichnis der Entwurfsunterlagen.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!2020Dez_Erg%C3%A4nzung_Wasserrechtl%20Antrag%20WP%20Culturweg.pdf" title="!2020Dez_Ergänzung_Wasserrechtl Antrag WP Culturweg">!2020Dez_Ergänzung_Wasserrechtl Antrag WP Culturweg</a>
+            <span class="text">
+            (
+                        !2020Dez_Ergänzung_Wasserrechtl Antrag WP Culturweg.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%200%20%C3%9Cbersichteplan.pdf" title="!Unterlage 0 Übersichteplan">!Unterlage 0 Übersichteplan</a>
+            <span class="text">
+            (
+                        !Unterlage 0 Übersichteplan.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%201%20Erl%C3%A4uterungsbericht%20Planfestestellungsverfahren.pdf" title="!Unterlage 1 Erläuterungsbericht Planfestestellungsverfahren">!Unterlage 1 Erläuterungsbericht Planfestestellungsverfahren</a>
+            <span class="text">
+            (
+                        !Unterlage 1 Erläuterungsbericht Planfestestellungsverfahren.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202%20UVP-Bericht%20Wasserrecht%20WP%20Barghorn.pdf" title="!Unterlage 2 UVP-Bericht Wasserrecht WP Barghorn">!Unterlage 2 UVP-Bericht Wasserrecht WP Barghorn</a>
+            <span class="text">
+            (
+                        !Unterlage 2 UVP-Bericht Wasserrecht WP Barghorn.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202b%20FFH-Vorpr%C3%BCfung_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2b FFH-Vorprüfung_ErgänzungDez20">!Unterlage 2b FFH-Vorprüfung_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2b FFH-Vorprüfung_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202c%20Anlage5_L%C3%BCbbe_Geotechn_2.%20Rev_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2c Anlage5_Lübbe_Geotechn_2. Rev_ErgänzungDez20">!Unterlage 2c Anlage5_Lübbe_Geotechn_2. Rev_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2c Anlage5_Lübbe_Geotechn_2. Rev_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202d%20Anlage5_L%C3%BCbbe_Geotechn_Anlagen_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2d Anlage5_Lübbe_Geotechn_Anlagen_ErgänzungDez20">!Unterlage 2d Anlage5_Lübbe_Geotechn_Anlagen_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2d Anlage5_Lübbe_Geotechn_Anlagen_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202e%20Anlage7_L%C3%BCbbe_Stellungn_Grundwasser_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2e Anlage7_Lübbe_Stellungn_Grundwasser_ErgänzungDez20">!Unterlage 2e Anlage7_Lübbe_Stellungn_Grundwasser_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2e Anlage7_Lübbe_Stellungn_Grundwasser_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202f%20Anlage6_L%C3%BCbbe_Stellungn_Wasser_Boden_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2f Anlage6_Lübbe_Stellungn_Wasser_Boden_ErgänzungDez20">!Unterlage 2f Anlage6_Lübbe_Stellungn_Wasser_Boden_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2f Anlage6_Lübbe_Stellungn_Wasser_Boden_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202g%20Anlage8_B%C3%B6ker_u_Part_BBB_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2g Anlage8_Böker_u_Part_BBB_ErgänzungDez20">!Unterlage 2g Anlage8_Böker_u_Part_BBB_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2g Anlage8_Böker_u_Part_BBB_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%202h%20Anlage2_Tapken_Fachbeitrag_Vorrang_Rohstoff_Erg%C3%A4nzungDez20.pdf" title="!Unterlage 2h Anlage2_Tapken_Fachbeitrag_Vorrang_Rohstoff_ErgänzungDez20">!Unterlage 2h Anlage2_Tapken_Fachbeitrag_Vorrang_Rohstoff_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        !Unterlage 2h Anlage2_Tapken_Fachbeitrag_Vorrang_Rohstoff_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%203.1%20Entw%C3%A4sserungslageplan%20Blatt%203.pdf" title="!Unterlage 3.1 Entwässerungslageplan Blatt 3">!Unterlage 3.1 Entwässerungslageplan Blatt 3</a>
+            <span class="text">
+            (
+                        !Unterlage 3.1 Entwässerungslageplan Blatt 3.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%203.2%20Entw%C3%A4sserungslageplan%20Blatt%204.pdf" title="!Unterlage 3.2 Entwässerungslageplan Blatt 4">!Unterlage 3.2 Entwässerungslageplan Blatt 4</a>
+            <span class="text">
+            (
+                        !Unterlage 3.2 Entwässerungslageplan Blatt 4.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%203.3%20Entw%C3%A4sserungslageplan%20Blatt%205.pdf" title="!Unterlage 3.3 Entwässerungslageplan Blatt 5">!Unterlage 3.3 Entwässerungslageplan Blatt 5</a>
+            <span class="text">
+            (
+                        !Unterlage 3.3 Entwässerungslageplan Blatt 5.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%203.4%20Entw%C3%A4sserungslageplan%20Blatt%206.pdf" title="!Unterlage 3.4 Entwässerungslageplan Blatt 6">!Unterlage 3.4 Entwässerungslageplan Blatt 6</a>
+            <span class="text">
+            (
+                        !Unterlage 3.4 Entwässerungslageplan Blatt 6.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%204.1%20Regelquerschnitt%20Graben.pdf" title="!Unterlage 4.1 Regelquerschnitt Graben">!Unterlage 4.1 Regelquerschnitt Graben</a>
+            <span class="text">
+            (
+                        !Unterlage 4.1 Regelquerschnitt Graben.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%204.1%20Regelquerschnitt%20Seitengraben%20Culturweg.pdf" title="!Unterlage 4.1 Regelquerschnitt Seitengraben Culturweg">!Unterlage 4.1 Regelquerschnitt Seitengraben Culturweg</a>
+            <span class="text">
+            (
+                        !Unterlage 4.1 Regelquerschnitt Seitengraben Culturweg.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%205%20Liste%20Grabenverrohrungen%20ohne%20Eigent%C3%BCmer.pdf" title="!Unterlage 5 Liste Grabenverrohrungen ohne Eigentümer">!Unterlage 5 Liste Grabenverrohrungen ohne Eigentümer</a>
+            <span class="text">
+            (
+                        !Unterlage 5 Liste Grabenverrohrungen ohne Eigentümer.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%206.1%20Landschaftspflegerischer%20Begleitplan%20Wasserrecht%20WP%20Barghorn.pdf" title="!Unterlage 6.1 Landschaftspflegerischer Begleitplan Wasserrecht WP Barghorn">!Unterlage 6.1 Landschaftspflegerischer Begleitplan Wasserrecht WP Barghorn</a>
+            <span class="text">
+            (
+                        !Unterlage 6.1 Landschaftspflegerischer Begleitplan Wasserrecht WP Barghorn.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%206.2%20LBP%20Plan%201%20Biotoptypen.pdf" title="!Unterlage 6.2 LBP Plan 1 Biotoptypen">!Unterlage 6.2 LBP Plan 1 Biotoptypen</a>
+            <span class="text">
+            (
+                        !Unterlage 6.2 LBP Plan 1 Biotoptypen.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/!Unterlage%206.3%20LBP%20Plan%202%20Ma%C3%9Fnahmen%20und%20Konflikte.pdf" title="!Unterlage 6.3 LBP Plan 2 Maßnahmen und Konflikte">!Unterlage 6.3 LBP Plan 2 Maßnahmen und Konflikte</a>
+            <span class="text">
+            (
+                        !Unterlage 6.3 LBP Plan 2 Maßnahmen und Konflikte.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%201%20Potenzialansprache_Libellen.pdf" title="Unterlage 6 LBP Anlage 1 Potenzialansprache_Libellen">Unterlage 6 LBP Anlage 1 Potenzialansprache_Libellen</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 1 Potenzialansprache_Libellen.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%202%20Untersuchungen%20Fische.pdf" title="Unterlage 6 LBP Anlage 2 Untersuchungen Fische">Unterlage 6 LBP Anlage 2 Untersuchungen Fische</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 2 Untersuchungen Fische.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%203%20Ergebnisbericht_DNA-Analytik.pdf" title="Unterlage 6 LBP Anlage 3 Ergebnisbericht_DNA-Analytik">Unterlage 6 LBP Anlage 3 Ergebnisbericht_DNA-Analytik</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 3 Ergebnisbericht_DNA-Analytik.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%204%20Fachbeitrag%20WRRL_Erg%C3%A4nzungDez20.pdf" title="Unterlage 6 LBP Anlage 4 Fachbeitrag WRRL_ErgänzungDez20">Unterlage 6 LBP Anlage 4 Fachbeitrag WRRL_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 4 Fachbeitrag WRRL_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%205%20Faunistischer_Fachbeitrag_Lurche_Erg%C3%A4nzungDez20.pdf" title="Unterlage 6 LBP Anlage 5 Faunistischer_Fachbeitrag_Lurche_ErgänzungDez20">Unterlage 6 LBP Anlage 5 Faunistischer_Fachbeitrag_Lurche_ErgänzungDez20</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 5 Faunistischer_Fachbeitrag_Lurche_ErgänzungDez20.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%206%20Fachbeitrag%20Avifauna.pdf" title="Unterlage 6 LBP Anlage 6 Fachbeitrag Avifauna">Unterlage 6 LBP Anlage 6 Fachbeitrag Avifauna</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 6 Fachbeitrag Avifauna.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%207%20Fachbeitrag%20Flederm%C3%A4use%202015.pdf" title="Unterlage 6 LBP Anlage 7 Fachbeitrag Fledermäuse 2015">Unterlage 6 LBP Anlage 7 Fachbeitrag Fledermäuse 2015</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 7 Fachbeitrag Fledermäuse 2015.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%208%20Fachbeitrag%20Flederm%C3%A4use%202019.pdf" title="Unterlage 6 LBP Anlage 8 Fachbeitrag Fledermäuse 2019">Unterlage 6 LBP Anlage 8 Fachbeitrag Fledermäuse 2019</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 8 Fachbeitrag Fledermäuse 2019.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/122F7342-4566-4811-86CA-A336191CA6E8/Unterlage%206%20LBP%20Anlage%209%20Artenschutzrechtliche%20Pr%C3%BCfung.pdf" title="Unterlage 6 LBP Anlage 9 Artenschutzrechtliche Prüfung">Unterlage 6 LBP Anlage 9 Artenschutzrechtliche Prüfung</a>
+            <span class="text">
+            (
+                        Unterlage 6 LBP Anlage 9 Artenschutzrechtliche Prüfung.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
+                                <span class="ic-ic-bullet icon"></span>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+    </div>
+</div>
+
+
+
+
+
+<script>
+    $( document ).ready(function() {
+        $('a.download').each(function(index) {
+            var a = $(this);
+            var aParent = a.parent(); 
+            if(a){
+                if(a.length > 0){
+                    var href = a[0].href;
+                    var spanParent = aParent.find('span.text');
+                    if(spanParent){
+                        var span = spanParent.find('span.downloadText');
+                        if(href && span){
+                            getLinkFileSize('https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTA__/search-detail.psml?url=' + encodeURIComponent(href), span);
+                        }
+                    }
+                }
+            }
+        });
+        $('.zip-download').each(function(index) {
+            var docuuid = '122F7342-4566-4811-86CA-A336191CA6E8';
+            var plugid = '/ingrid-group:ige-iplug-ni';
+            if(docuuid !== '' && plugid !== '') {
+                var element = $(this);
+                element.append('<span>Dokumentenarchiv (Zip) wird erstellt ...</span>');
+                var http = new XMLHttpRequest();
+                http.open('GET', 'https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQQ3JlYXRl/search-detail.psml?docuuid=' + docuuid + '&plugid=' + plugid, true);
+                http.onreadystatechange = function() {
+                    if (this.readyState == this.DONE) {
+                        if (this.status === 200) {
+                            element.find('span').addClass('is-hidden');
+                            if(this.response != "") {
+                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=122F7342-4566-4811-86CA-A336191CA6E8&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
+                                content = content + '<span class="text"><span class="downloadText">' + convertFileSize(this.response, true, true) + '</span></span>'
+                                element.append(content);
+                            }
+                        }
+                    }
+                };
+                http.send();
+            }
+        });
+    });
+</script>                                    
+
+<!--  END: clear/decorator.vm -->			              </div>
+            <footer>
+    <div class="footer-buttons-bar show-for-medium hide-for-print">
+        <div class="social-buttons">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D122F7342-4566-4811-86CA-A336191CA6E8%26docid%3D122F7342-4566-4811-86CA-A336191CA6E8%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Twitter">
+        <span class="ic-ic-twitter"></span><span class="text"></span>
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D122F7342-4566-4811-86CA-A336191CA6E8%26docid%3D122F7342-4566-4811-86CA-A336191CA6E8%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Facebook">
+        <span class="ic-ic-facebook"></span><span class="text"></span>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D122F7342-4566-4811-86CA-A336191CA6E8%26docid%3D122F7342-4566-4811-86CA-A336191CA6E8%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="LinkedIn">
+        <span class="ic-ic-linkedin"></span><span class="text"></span>
+    </a>
+    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige?docuuid=122F7342-4566-4811-86CA-A336191CA6E8&docid=122F7342-4566-4811-86CA-A336191CA6E8&lang=de&plugid=/ingrid-group:ige-iplug-ni" class="button round social" target="_blank" title="WhatsApp">
+        <span class="ic-ic-whatsapp"></span><span class="text"></span>
+    </a>
+    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D122F7342-4566-4811-86CA-A336191CA6E8%26docid%3D122F7342-4566-4811-86CA-A336191CA6E8%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="XING">
+        <span class="ic-ic-xing"></span><span class="text"></span>
+    </a>
+    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D122F7342-4566-4811-86CA-A336191CA6E8%26docid%3D122F7342-4566-4811-86CA-A336191CA6E8%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="E-Mail">
+        <span class="ic-ic-mailto"></span><span class="text"></span>
+    </a>
+    <button id="share-buttons" class="button round social share" title="ingrid.page.share">
+        <span class="ic-ic-share"></span>
+        <span class="text"></span>
+    </button>
+</div>                <div class="button-up">
+    <button type="button" class="button round social js-top" title="Nach oben">
+        <span class="ic-ic-angle-up"></span>
+    </button>
+</div>    </div>
+    <div class="footer">
+            <div class="row">
+            <div class="xsmall-24 small-24 medium-24 large-24 xlarge-24 columns">
+                                <div class="copyright">
+    <p class="copyright_text">&copy; 2022 Landesbetrieb Geoinformation und Vermessung</p>
+</div>
+            </div>
+            <div class="xsmall-24 small-24 medium-24 large-24 xlarge-24 columns">
+                    <div class="footer-menu-entries" role="navigation" aria-label="Navigation Footer">
+                                                                    <a href="https://www.uvp-verbund.de:443/kontakt" title="Ihre Nachricht, Fragen oder Anregungen direkt an UVP" class="icon"><span class="text">Kontakt</span></a>
+                                                                <a href="https://www.uvp-verbund.de:443/impressum" title="Inhaltlich und technisch Verantwortliche, Nutzungsbedingungen, Haftungsausschluss" class="icon"><span class="text">Impressum</span></a>
+                                                                          <a href="https://www.uvp-verbund.de:443/datenschutzbestimmung" title="Unsere Verpflichtung zum Umgang mit persönlichen Informationen" class="icon"><span class="text">Datenschutz</span></a>
+                                                                <a href="https://www.uvp-verbund.de:443/barrierefreiheit" title="Barrierefreiheit" class="icon"><span class="text">Barrierefreiheit</span></a>
+          </div>
+            </div>
+        </div>
+    </div>
+    <a href="" class="footer-top-link hide-for-medium js-top">Nach oben</a></footer>
+            <!-- Popup -->
+<div class="popup help-popup">
+    <div class="headline popup__header">
+        <p class="popup__title medium">Hilfe</p>
+        <button type="button" class="button round popup__close js-popup-close"><span class="ic-ic-cross"></span></button>
+    </div>
+    <div class="popup__content text-box">
+        <p></p>
+    </div>
+</div>            <!-- Global scripts -->
+<script src="/decorations/layout/ingrid/scripts/all.js"></script>
+
+<!-- Popup -->
+<script src="/decorations/layout/ingrid/scripts/popup.js"></script>
+
+<!-- Expand -->
+<script src="/decorations/layout/ingrid/scripts/expander.js"></script>
+
+<!-- Anchor target -->
+<script src="/decorations/layout/ingrid/scripts/anchor-target.js"></script>
+<script>
+    $('.js-anchor-target').anchorTarget();
+</script>
+
+<!-- Anchor navigation -->
+<script src="/decorations/layout/ingrid/scripts/anchor-navigation.js"></script>
+<script>
+    $('.js-anchor-navigation').anchorNavigation();
+</script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    spaceBetween: 10,
+    grabCursor: true,
+    updateOnWindowResize: true,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev'
+    },
+    scrollbar: {
+      el: '.swiper-scrollbar'
+    },
+  });
+</script>
+<script>
+    $(document).ready(function() { 
+    $( "a:not(:empty)" ).each(function( i ) {
+        var attr = $(this).attr('href');
+        if (typeof attr !== 'undefined' && attr !== false) {
+            if ( $(this).children().length == 0 ) {
+                $(this).html('<span>' + $(this).text() + '</span>');
+            }
+        }
+    });
+});
+</script>                </div>
+                <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.metaver.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://matomo.metaver.de/matomo.php?idsite=2&amp;rec=1" style="border:0" alt="" /></p></noscript>
+<!-- End Matomo Code -->            </body>
+</html>

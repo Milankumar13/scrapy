@@ -22,7 +22,7 @@
     <head>
         <link rel="shortcut icon" href="/decorations/layout/ingrid/images/favicon.ico" />        
       
-<title>Errichtung und Betrieb von acht Windkraftanlagen im Windpark Münstedt - UVP</title>
+<title>G20/2021/011-014-Errichtung und Betrieb von vier Windkraftanlagen in 24622 Gnutz (Kreis Rendsburg-Eckernförde) - UVP</title>
 <!--
             <base href="https://www.uvp-verbund.de:443/" />
     -->
@@ -179,7 +179,7 @@
                 <span>Zulassungsverfahren</span>
             </div>
             <h1>
-                Errichtung und Betrieb von acht Windkraftanlagen im Windpark Münstedt
+                G20/2021/011-014-Errichtung und Betrieb von vier Windkraftanlagen in 24622 Gnutz (Kreis Rendsburg-Eckernförde)
             </h1>
                                                 
             <div class="helper text date">
@@ -192,7 +192,7 @@
     <div class="row content-small">
         <div class="columns">
                                                    <h3 class="title-font">Allgemeine Vorhabenbeschreibung</h3>
-                            <p>Die Windpark Münstedt Infra GmbH, beantragt gemäß § 4 des Bundes-Immissionsschutzgesetzes (BImSchG) die Genehmigung zur Errichtung und zum Betrieb von acht Windenergieanlagen des Typs VESTAS V150 mit verschiedenen Nabenhöhen von 125-149 m, einem Rotordurchmesser von 150 m und einer Nennleistung von 5.6 MW.<br/><br/>Bei dem beantragten Vorhaben handelt es sich um genehmigungsbedürfte Anlagen im Sinne des § 4 BImSchG. Die Anlage ist im Anhang zu § 1 der Verordnung über genehmigungsbedürftige Anlagen (4. BImSchV) unter Ziffer 1.6.2 aufgeführt. <br/><br/>Für das Vorhaben ist gemäß § 5 des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG) eine Umweltverträglichkeitsprüfung durchzuführen. Ein entsprechender UVP-Bericht wurde durch die Antragstellerin eingereicht.</p>
+                            <p>Die Antragstellerin WKN GmbH, Otto-Hahn-Straße 12-16, 25813 Husum, hat mit Antrag vom 05.02.2021, zuletzt ergänzt am 15.10.2021, beim Landesamt für Landwirtschaft, Umwelt und ländliche Räume vier Neugenehmigungen nach § 4 BImSchG in Verbindung mit § 10 BImSchG beantragt. Beabsichtigt ist die Errichtung von insgesamt vier Windkraftanlagen (WKA), davon drei Windkraftanlagen des Typs Vestas V162-5.6MW und eine Windkraftanlage des Typs Vestas V150-5.6MW. Alle vier WKA haben eine Gesamthöhe von 200 m und eine Nennleistung von 5.600 kW. Die Vestas V162 haben einen Rotordurchmesser von 162 m und eine Nabenhöhe von 119 m. Die Vestas V150 haben einen Rotordurchmesser von 150 m und eine Nabenhöhe von 125 m.<br/>Die Vorhaben sollen an folgenden Standorten in der Gemeinde Gnutz realisiert werden:<br/>–	WKA 3 (G20/2021/011): Gemarkung Gnutz, Flur 19, Flurstück 11,<br/>–	WKA 4 (G20/2021/012): Gemarkung Gnutz, Flur 19, Flurstück 1,<br/>–	WKA 5 (G20/2021/013): Gemarkung Gnutz, Flur 18, Flurstück 39/3 und<br/>–	WKA 6 (G20/2021/014): Gemarkung Gnutz, Flur 18, Flurstück 21/1.<br/>Die Inbetriebnahme der Anlage ist für 12/2023 geplant.</p>
                     </div>
     </div>
     <div class="row content-small">
@@ -325,8 +325,8 @@
     }
 </script>                        <div id="map" style="height: 400px; width:100%;"></div>
                         <script>
-                            var southWest = L.latLng( 52.2267,  10.2456),
-                            northEast = L.latLng( 52.2524,  10.3084),
+                            var southWest = L.latLng( 54.1011,  9.7524),
+                            northEast = L.latLng( 54.1385,  9.8465),
                             bounds = L.latLngBounds(southWest, northEast);
                             
                             var osm = getOSMLayer('<br>Die Hintergrundkarte dient der Orientierung. Kein Bezug zu den Verfahrensdaten.');
@@ -336,7 +336,7 @@
                                 var popLocation= e.latlng;
                                 var popup = L.popup()
                                 .setLatLng(popLocation)
-                                .setContent('<p>Koordinaten:<br /> 52.2267\,  10.2456<br/> 52.2524,  10.3084</p>')
+                                .setContent('<p>Koordinaten:<br /> 54.1011\,  9.7524<br/> 54.1385,  9.8465</p>')
                                 .openOn(map);
                             }).addTo(map);
                             
@@ -350,38 +350,45 @@
                     <h3>Adressen</h3>
                                                             <h4 class="no-margin">Ansprechpartner</h4>
                     <p>
-                                                                Landkreis Peine, Niedersachsen
+                                                                                                Ministerium für Energiewende, Landwirtschaft, Umwelt, Natur und Digitalisierung (MELUND-SH)
+                                <br>
+                                                        Landesamt für Landwirtschaft, Umwelt und ländliche Räume (LLUR)
+                                <br>
+                                                        Technischer Umweltschutz (LLUR 7)
+                                <br>
+                                                                    Regionaldezernat Mitte
                     </p>
                     <p>
-                                                    Burgstraße 1
+                                                    Hamburger Chaussee 25
                             <br>
-                                                                                                        31224
-                                                                            Peine
+                                                                                                        24220
+                                                                            Flintbek
                                                                             <br>
-                                                                                            </p>
+                                                                                                    Deutschland
+                                                                        </p>
                     <table>
                                                 <tr>
                             <td>E-Mail:</td>
                             <td>
-                                <a href="mailto:mail@landkreis-peine.de">mail@landkreis-peine.de</a>
+                                <a href="mailto:poststelle-flintbek@llur.landsh.de">poststelle-flintbek@llur.landsh.de</a>
                             </td>
                         <tr>
                                                                         <tr>
                             <td>Telefon:</td>
                             <td>
-                                05171 / 401 0
+                                04347/ 704-0
                             </td>
                         <tr>
                                                                         <tr>
                             <td>Fax:</td>
                             <td>
-                                05171 / 401 7700
+                                04347/ 704-602
                             </td>
                         <tr>
                                                                         <tr>
                             <td>URL:</td>
                             <td>
-                                <a href="https://www.landkreis-peine.de/">https://www.landkreis-peine.de/</a>
+                                <a href="http://www.schleswig-holstein.de">http://www.schleswig-holstein.de</a>
                             </td>
                         <tr>
                                             </table>
@@ -394,7 +401,7 @@
                 </div>
                 <noscript>
                     <div class="zip-download">
-                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen">
+                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC&plugid=/ingrid-group:ige-iplug-sh" title="Alle Dokumente als ZIP-Datei herunterladen">
                             <span class="ic-ic-download"></span>
                         </a>
                     </div>
@@ -406,30 +413,42 @@
                         <div class="timeline-graph"></div>
                         <div class="timeline-text">
                                                                                                                                                                 <h2 class="icon-dot">
-                                Öffentliche Auslegung
+                                Erörterungstermin
                                 <span class="ic-ic-timeline-bullet icon"></span>
+                                                        </h2>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <h4 class="no-margin">
+            Zeitraum der Erörterung 
+                            <span class="ic-ic-info js-popup" data-title="Hinweis" data-content="Nähere Informationen entnehmen Sie bitte den Informationen zum Erörterungstermin."></span>
+                    </h4>
+        <p>
+                    21.04.2022
+                            - 21.04.2022
+                </p>
+                                                                                                                        <h4 class="title-font">Informationen zum Erörterungstermin</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://www.uvp-verbund.de/documents/ingrid-group_ige-iplug-sh/ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC/Bekanntmachung%20Absage%20E%C3%96T%20UVP-Portal.pdf" title="Bekanntmachung Absage EÖT UVP-Portal">Bekanntmachung Absage EÖT UVP-Portal</a>
+            <span class="text">
+            (
+                        Bekanntmachung Absage EÖT UVP-Portal.pdf
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                        <h2 class="icon-check">
+                                Öffentliche Auslegung
+                                <span class="ic-ic-check icon"></span>
                                                         </h2>
                                                                                                             <h4 class="no-margin">
             Zeitraum der Auslegung
                             <span class="ic-ic-info js-popup" data-title="Hinweis" data-content="Nähere Informationen entnehmen Sie bitte den Auslegungsinformationen."></span>
                     </h4>
         <p>
-                    11.04.2022
-                            - 10.05.2022
+                    21.12.2021
+                            - 20.01.2022
                 </p>
-                                                                                                                        <h4 class="title-font">Auslegungsinformationen</h4>
-                <div class="document-list">
-                    <div class="list-item">
-                                                                <a target="_blank" class="link download" href="https://uvp.niedersachsen.de/documents/ingrid-group_ige-iplug-ni/2B14864C-7F88-469F-9EA8-0213DAB1091D/Bekanntmachung%20Windpark%20M%C3%BCnstedt.pdf" title="Bekanntmachung Windpark Münstedt">Bekanntmachung Windpark Münstedt</a>
-            <span class="text">
-            (
-                        Bekanntmachung Windpark Münstedt.pdf
-            <span class="downloadText"></span>
-            )
-            </span>
-                            </div>
-                </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
                                 <span class="ic-ic-bullet icon"></span>
                             </h2>
                         </div>
@@ -463,8 +482,8 @@
             }
         });
         $('.zip-download').each(function(index) {
-            var docuuid = '2B14864C-7F88-469F-9EA8-0213DAB1091D';
-            var plugid = '/ingrid-group:ige-iplug-ni';
+            var docuuid = 'ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC';
+            var plugid = '/ingrid-group:ige-iplug-sh';
             if(docuuid !== '' && plugid !== '') {
                 var element = $(this);
                 element.append('<span>Dokumentenarchiv (Zip) wird erstellt ...</span>');
@@ -475,7 +494,7 @@
                         if (this.status === 200) {
                             element.find('span').addClass('is-hidden');
                             if(this.response != "") {
-                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&plugid=/ingrid-group:ige-iplug-ni" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
+                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC&plugid=/ingrid-group:ige-iplug-sh" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
                                 content = content + '<span class="text"><span class="downloadText">' + convertFileSize(this.response, true, true) + '</span></span>'
                                 element.append(content);
                             }
@@ -492,22 +511,22 @@
             <footer>
     <div class="footer-buttons-bar show-for-medium hide-for-print">
         <div class="social-buttons">
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26docid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-sh" class="button round social" target="_blank" title="Twitter">
         <span class="ic-ic-twitter"></span><span class="text"></span>
     </a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="Facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26docid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-sh" class="button round social" target="_blank" title="Facebook">
         <span class="ic-ic-facebook"></span><span class="text"></span>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26docid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-sh" class="button round social" target="_blank" title="LinkedIn">
         <span class="ic-ic-linkedin"></span><span class="text"></span>
     </a>
-    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige?docuuid=2B14864C-7F88-469F-9EA8-0213DAB1091D&docid=2B14864C-7F88-469F-9EA8-0213DAB1091D&lang=de&plugid=/ingrid-group:ige-iplug-ni" class="button round social" target="_blank" title="WhatsApp">
+    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige?docuuid=ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC&docid=ACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC&lang=de&plugid=/ingrid-group:ige-iplug-sh" class="button round social" target="_blank" title="WhatsApp">
         <span class="ic-ic-whatsapp"></span><span class="text"></span>
     </a>
-    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="XING">
+    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26docid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-sh" class="button round social" target="_blank" title="XING">
         <span class="ic-ic-xing"></span><span class="text"></span>
     </a>
-    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26docid%3D2B14864C-7F88-469F-9EA8-0213DAB1091D%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-ni" class="button round social" target="_blank" title="E-Mail">
+    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Fdocuuid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26docid%3DACCD39BF-4BC6-4AAE-8DE3-CB616875CEEC%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-sh" class="button round social" target="_blank" title="E-Mail">
         <span class="ic-ic-mailto"></span><span class="text"></span>
     </a>
     <button id="share-buttons" class="button round social share" title="ingrid.page.share">

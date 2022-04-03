@@ -19,9 +19,10 @@ class UVPSpider(scrapy.Spider):
             fullSubUrl.append(fullUrl)
 
         print(fullSubUrl)
-
+        subLinkNo =1
         for su in fullSubUrl:
-            yield scrapy.Request(url=su, callback = self.subParse,meta={'no':'1'})
+            yield scrapy.Request(url=su, callback = self.subParse,meta={'no':1})
+            subLinkNo = subLinkNo + 1
 
 
         with open('ListOfSubUrl.txt', 'w') as f:
@@ -30,9 +31,13 @@ class UVPSpider(scrapy.Spider):
 
     def subParse(self,response):
         subPageNo = response.meta['no']
+        print("############################################################################################")
+        print(response.url[-8:])
+        print("############################################################################################")
         ### Sub Task 1 ###
         filename = 'HTML File.txt'
-        path = 'subPage'+ subPageNo
+        path = 'subPage'+ str(subPageNo)
+        path = response.url[-8:]
         if (os.path.isdir(path) == False):
             os.mkdir(path)
         
