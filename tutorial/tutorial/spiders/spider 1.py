@@ -57,13 +57,25 @@ class UVPSubExtraction(scrapy.Spider):
         with open(metaDir+"/date", "w") as fp:
             for eachDiv in response.css('div.page-wrapper'):
                 date = eachDiv.css('span::text').getall()
-                fp.write(date[2])
+                fullDate = date[2]
+                onlyDate = fullDate[-10:]
+                fp.write(onlyDate)
 
         ### SUb Task 3 ###
         descDir = "Description File"
         descDir = path+"/"+descDir
-        if (os.path.isdir(descDir) == False):
-            os.mkdir(descDir)
+        file_url = response.css('a::attr(href)').getall()
+        print("###############################################################")
+        print(file_url)
+        print("###############################################################")
+
+        # for eachBtn in response.css('div.ic-ic-download'):
+        #             x = eachBtn.css('a::attr(href)').get()
+        #             print("###############################################################")
+        #             print(x)
+        #             print("###############################################################")
+        # if (os.path.isdir(descDir) == False):
+        #     os.mkdir(descDir)
 
 
         
