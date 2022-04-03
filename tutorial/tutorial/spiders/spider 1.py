@@ -64,7 +64,9 @@ class UVPSubExtraction(scrapy.Spider):
         ### SUb Task 3 ###
         descDir = "Description File"
         descDir = path+"/"+descDir
-        file_url = response.css('a::attr(href)').getall()
+        down = response.xpath('//*[@class="ic-ic-download"]')
+
+        file_url = down.css('a::attr(href)').get()
         print("###############################################################")
         print(file_url)
         print("###############################################################")
