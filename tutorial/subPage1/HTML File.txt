@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+    <head>
+        <link rel="shortcut icon" href="/decorations/layout/ingrid/images/favicon.ico" />        
+      
+<title>Anträge zur Errichtung und Betrieb von zwei Windenergieanlagen im Gebiet der Stadt Kleve - UVP</title>
+<!--
+            <base href="https://www.uvp-verbund.de:443/" />
+    -->
+<link rel="prefetch" href="/decorations/layout/ingrid/images/template/icons.svg" />
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta name="description" content="Die Trefferliste enthält alle Ergebnisse, die mit Ihrer Suchanfrage übereinstimmen. Dazu zählen Verweise auf Webseiten, Messdaten, Karten oder Metadaten. " />
+<meta name="author" content="&copy; 2022 Landesbetrieb Geoinformation und Vermessung" />
+<meta name="keywords" lang="de" content="UVP, Trefferanzeige, Ergebnis, Suchergebnis, Resultate" />
+<meta name="copyright" content="&copy; 2022 Landesbetrieb Geoinformation und Vermessung" />            <meta name="robots" content="index,follow" />
+        
+
+<link rel="stylesheet" href="/decorations/layout/uvp/css/main.css">
+<link rel="stylesheet" href="/decorations/layout/ingrid/css/override.css">
+<link rel="stylesheet" href="/decorations/layout/ingrid/css/print.css" media="print">
+<!-- swiper -->
+<link rel="stylesheet" href="/decorations/layout/ingrid/scripts/swiper/css/swiper.min.css">
+
+
+  <script src="/decorations/layout/ingrid/scripts/ingrid.js"></script>
+<!-- Global scripts -->
+<script src="/decorations/layout/ingrid/scripts/modernizr.custom.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/jquery-2.1.4.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/fastclick.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/jquery.nicescroll.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/foundation.min.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/select2.full.js"></script>
+<script src="/decorations/layout/uvp/scripts/main.js"></script>
+
+<!-- zxcvbn -->
+<script src="/decorations/layout/ingrid/scripts/zxcvbn/zxcvbn.js"></script>
+
+<!-- swiper -->
+<script src="/decorations/layout/ingrid/scripts/swiper/js/swiper.min.js"></script>
+
+                
+    </head>
+    <body>
+            <div class="container">
+                        <div class="header-menu" style="display: none;" role="navigation" aria-label="Navigation Menu">
+    <div class="header-menu-close">
+        <button type="button" class="button ">Menü<span class="ic-ic-cross"></span></button>
+    </div>
+    <div class="menu-main-links">
+            <div class="highlighted">
+                                                                                                                                          <a href="https://www.uvp-verbund.de:443/freitextsuche;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="header-menu-entry " title="Finden Sie UVP-Vorhaben"><span class="text">Suche</span></a>
+                                                                                                                                                            <a href="https://www.uvp-verbund.de:443/kartendienste;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="header-menu-entry " title="UVP-Vorhaben in der Karte"><span class="text">Karte</span></a>
+                                                                                                                                                                                                                                                                                    <a href="https://www.uvp-verbund.de:443/hintergrundinformationen;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="header-menu-entry " title="Informationen zum Portal und verfahrensführende Behörden"><span class="text">&Uuml;ber Uns</span></a>
+                                                                                                                                            <a href="https://www.uvp-verbund.de:443/informationsanbieter;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="header-menu-entry " title="Kooperationspartner und Verfahrensführende Behörden"><span class="text">Behörden</span></a>
+                                                                      </div>
+                                                                    <a href="https://www.uvp-verbund.de:443/kontakt;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Ihre Nachricht, Fragen oder Anregungen direkt an UVP" ><span class="text">Kontakt</span></a>
+                                                        <a href="https://www.uvp-verbund.de:443/impressum;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Inhaltlich und technisch Verantwortliche, Nutzungsbedingungen, Haftungsausschluss" ><span class="text">Impressum</span></a>
+                                                                  <a href="https://www.uvp-verbund.de:443/datenschutzbestimmung;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Unsere Verpflichtung zum Umgang mit persönlichen Informationen" ><span class="text">Datenschutz</span></a>
+                                                        <a href="https://www.uvp-verbund.de:443/barrierefreiheit;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Barrierefreiheit" ><span class="text">Barrierefreiheit</span></a>
+                  </div>
+    <div class="menu-sub-links">
+                                                                </div>
+</div> 
+                <header>
+    <div class="row">
+        <div class="columns small-7 medium-9 large-7 xlarge-6">
+    <div class="logo" role="banner">
+        <a href="https://www.uvp-verbund.de:443/startseite;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="hide-for-medium hide-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+        <a href="https://www.uvp-verbund.de:443/startseite;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="show-for-medium hide-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo-mit-tag.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+        <a href="https://www.uvp-verbund.de:443/startseite;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" class="show-for-xsmall-only" title="Startseite von UVP aufrufen ">
+            <img src="/decorations/layout/uvp/images/template/logo-xsmall.svg" alt="UVP - Umweltverträglichkeitsprüfung"/>
+        </a>
+    </div>
+</div>        <div class="columns xsmall-16 small-15 medium-9 large-7 xlarge-6 nav-tabs">
+    <div class="menu-tab-row" role="navigation" aria-label="Navigation Header">
+                                                                                                          
+                                    <a class="menu-tab is-selected" href="https://www.uvp-verbund.de:443/freitextsuche;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Finden Sie UVP-Vorhaben">
+                <div class="link-menu-tab">
+                    <span class="ic-ic-lupe"></span>
+                    <span class="text">Suche</span>
+                </div>
+            </a>
+                                                                                                
+                            <a class="menu-tab " href="https://www.uvp-verbund.de:443/kartendienste;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="UVP-Vorhaben in der Karte">
+                <div class="link-menu-tab">
+                    <span class="ic-ic-karten"></span>
+                    <span class="text">Karte</span>
+                </div>
+            </a>
+                                                                                                                    
+                                              </div>
+</div>        <div class="columns">
+            <div class="header-menu-open">
+                                    <button type="button" class="button xsmall-button"><span class="ic-ic-hamburger"></span></button>
+                                <button type="button" class="button small-button">Menü<span class="ic-ic-hamburger"></span></button>
+            </div>
+        </div>
+    </div>
+</header>
+            <div class="body" role="main">								
+			
+
+<!--  BEGIN: clear/decorator.vm -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="detail">
+    <div class="banner-noimage">
+      <div class="page-wrapper">
+        <div class="row content-small">
+          <div class="columns">
+            <a class="helper icon" href="/freitextsuche;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D">
+                <span class="ic-ic-arrow-left"></span>
+                <span class="text">Alle Suchergebnisse</span>
+            </a>
+            <br>
+            <br>
+            <div class="helper text">
+                <span>Zulassungsverfahren</span>
+            </div>
+            <h1>
+                Anträge zur Errichtung und Betrieb von zwei Windenergieanlagen im Gebiet der Stadt Kleve
+            </h1>
+                                                
+            <div class="helper text date">
+                <span>Zuletzt geändert 31.03.2022</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row content-small">
+        <div class="columns">
+                                                   <h3 class="title-font">Allgemeine Vorhabenbeschreibung</h3>
+                            <p>Die NATURWERK Kraftwerk Kleve I GmbH, Merveldtstraße 36a, 45663 Recklinghausen, beantragt gemäß § 4 BImSchG die Erteilung einer Genehmigung nach § 4 BImSchG für eine Windenergieanlage.	<br/>Bei der Anlage mit der Kennung WEA 2 handelt es sich um eine WEA des Typs Nordex N163 - 6.8 mit einer Nabenhöhe inkl. Fundament von 166 m, einem Rotordurchmesser von 163 m, einer Gesamthöhe von 247,50 m sowie einer Leistung von 6,8 MW. Sie soll auf dem Flurstück Gemarkung Reichswalde, Flur 7, Flurstück 34 errichtet und betrieben werden.<br/>Die NATURWERK Kraftwerk Kleve II GmbH, Merveldtstraße 36a, 45663 Recklinghausen, beantragt gemäß § 4 BImSchG die Erteilung einer Genehmigung nach § 4 BImSchG für eine Windenergieanlage.	<br/>Bei der Anlage mit der Kennung WEA 1 handelt es sich um eine WEA des Typs Nordex N163 - 6.8 mit einer Nabenhöhe inkl. Fundament von 166 m, einem Rotordurchmesser von 163 m, einer Gesamthöhe von 247,50 m sowie einer Leistung von 6,8 MW. Sie soll auf dem Flurstück Gemarkung Reichswalde, Flur 7, Flurstück 24 errichtet und betrieben werden.<br/><br/>Die Antragstellerinnen haben mit den jeweiligen Anträgen entsprechend § 5 Abs. 1 des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG) beantragt, gemeinsam für beide neu geplanten WEA eine Umweltverträglichkeitsprüfung (UVP) durchzuführen.</p>
+                    </div>
+    </div>
+    <div class="row content-small">
+        <div class="columns">
+                                                                                                        <h3 class="title-font">UVP-Kategorie</h3>
+                            <div class="list-item">
+                     <div>
+                <span class="ic-ic-UVPG-1"></span>
+                <span class="text">Wärmeerzeugung, Bergbau und Energie</span>
+             </div>
+                </div>
+            </div>
+    </div>
+            <div class="unbreak">
+        <div class="row content-small">
+            <div class="columns">
+                                                                                    <h3 class="title-font">Raumbezug</h3>
+            </div>
+        </div>
+        <div class="row no-padding">
+            <div class="columns form">
+                        <link rel="stylesheet" href="/decorations/layout/ingrid/scripts/leaflet.awesome-markers/leaflet.awesome-markers.css" />
+<script src="/decorations/layout/uvp/scripts/vendor/leaflet.js"></script>
+<script src="/decorations/layout/uvp/scripts/vendor/leaflet.markercluster.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.awesome-markers/leaflet.awesome-markers.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.spin/spin.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.spin/leaflet.spin.min.js"></script>
+<link rel="stylesheet" href="/decorations/layout/ingrid/scripts/leaflet.gesture-handling/leaflet-gesture-handling.min.css" />
+<script src="/decorations/layout/ingrid/scripts/leaflet.gesture-handling/leaflet-gesture-handling.min.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.wicket/wicket.js"></script>
+<script src="/decorations/layout/ingrid/scripts/leaflet.wicket/wicket-leaflet.js"></script>
+
+<script>
+    function getOSMLayer(attribution){
+        var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var osmAttrib='&copy; <a target="_blank" class="external-link" href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+        if(attribution){
+            osmAttrib = osmAttrib + "" + attribution;
+        }
+        return new L.TileLayer(osmUrl, {attribution: osmAttrib});
+    }
+
+    function getWMSLayer(layerUrl, layerName, attribution){
+        var osmAttrib='&copy; <a target="_blank" class="external-link" href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+        if(attribution){
+            osmAttrib += attribution;
+        }
+        return new L.tileLayer.wms(layerUrl, {
+            layers: layerName,
+            attribution: osmAttrib
+        });
+    }
+
+    function addLeafletMap(baselayers, bounds, latlng, zoom){
+        return addLeafletMapWithId('map', baselayers, bounds, latlng, zoom);
+    }
+
+    function addLeafletMapWithId(mapId, baselayers, bounds, latlng, zoom){
+        var epsg = L.CRS.EPSG3857;
+        if('3857'.length > 0) {
+            epsg = L.CRS.EPSG3857;
+        }
+        var map = new L.Map(mapId, {
+           crs: epsg,
+           layers: baselayers
+        });
+        if(bounds){
+          map.fitBounds(bounds);
+        } else if(latlng) {
+          map.setView(latlng, zoom || 6);
+        } else {
+          map.setView(new L.LatLng(51.3, 10), 6);
+        }
+        return map;
+    }
+
+    function addLeafletHomeControl(map, title, position, icon, bounds, padding, fontSize){
+        var HomeControl = L.Control.extend({
+            options: {
+                position: position ? position : 'topleft'
+            },
+            onAdd: function (map) {
+                var container = L.DomUtil.create('div', 'leaflet-control-home leaflet-bar');
+                var link = L.DomUtil.create('a', icon, container);
+                link.href = '#';
+                if(padding){
+                  link.style.padding = padding;
+                }
+                if(fontSize){
+                  link.style.fontSize = fontSize;
+                }
+                link.title = title;
+                L.DomEvent.addListener(link, 'click', this._homeClick, this);
+                return container;
+            },
+            _homeClick: function(e) {
+                L.DomEvent.stop(e);
+                if(bounds){
+                    var features = [];
+                    map.eachLayer(function(layer) {
+                        if(layer && layer.getBounds) {
+                            features.push(layer);
+                        }
+                    })
+                    if(features.length > 0) {
+                        bounds = L.featureGroup(features).getBounds();
+                    }
+                    map.fitBounds(bounds);
+                }
+            }
+        });
+        map.addControl(new HomeControl({}));
+    }
+
+    function resizeMap(map){
+        if(map){
+            map._onResize();
+        }
+    }
+    
+    function disableLeafletMapTouchControl(map) {
+        map.removeControl(map.zoomControl);
+        map.dragging.disable();
+        map.zoomControl.disable();
+        map.touchZoom.disable();
+        map.doubleClickZoom.disable();
+        map.scrollWheelZoom.disable();
+        map.boxZoom.disable();
+        map.keyboard.disable();
+    }
+</script>                        <div id="map" style="height: 400px; width:100%;"></div>
+                        <script>
+                            var southWest = L.latLng( 51.7370,  6.0972),
+                            northEast = L.latLng( 51.7562,  6.1323),
+                            bounds = L.latLngBounds(southWest, northEast);
+                            
+                            var osm = getOSMLayer('<br>Die Hintergrundkarte dient der Orientierung. Kein Bezug zu den Verfahrensdaten.');
+                            var map = addLeafletMap([osm], bounds);
+                            map.gestureHandling.enable();
+                            var rect = L.rectangle(bounds, {color: 'green', weight: 3, fill: true}).on('click', function (e) {
+                                var popLocation= e.latlng;
+                                var popup = L.popup()
+                                .setLatLng(popLocation)
+                                .setContent('<p>Koordinaten:<br /> 51.7370\,  6.0972<br/> 51.7562,  6.1323</p>')
+                                .openOn(map);
+                            }).addTo(map);
+                            
+                            addLeafletHomeControl(map, 'Zoom auf initialen Kartenausschnitt', 'topleft', 'ic-ic-center', bounds, '', '23px');
+                        </script>
+                                                            </div>
+        </div>
+    </div>
+        <div class="row content-small">
+        <div class="columns form">
+                    <h3>Adressen</h3>
+                                                            <h4 class="no-margin">Ansprechpartner</h4>
+                    <p>
+                                                                Kreis Kleve
+                    </p>
+                    <p>
+                                                                                                                                                                    </p>
+                    <table>
+                                                <tr>
+                            <td>E-Mail:</td>
+                            <td>
+                                <a href="mailto:info@kreis-kleve.de">info@kreis-kleve.de</a>
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>Telefon:</td>
+                            <td>
+                                0 28 21 / 85-0
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>Fax:</td>
+                            <td>
+                                0 28 21 / 85-500
+                            </td>
+                        <tr>
+                                                                        <tr>
+                            <td>URL:</td>
+                            <td>
+                                <a href="https://www.kleve.de/de/kammern/kreisverwaltung-kleve/">https://www.kleve.de/de/kammern/kreisverwaltung-kleve/</a>
+                            </td>
+                        <tr>
+                                            </table>
+                                                </div>
+    </div>
+    <div id="timeline" class="row content-small">
+        <div class="columns">
+            <h1>Verfahrensschritte
+                                <div class="zip-download">
+                </div>
+                <noscript>
+                    <div class="zip-download">
+                        <a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=DD8450C1-B85A-4BED-91C0-9D218F00CB90&plugid=/ingrid-group:ige-iplug-nw" title="Alle Dokumente als ZIP-Datei herunterladen">
+                            <span class="ic-ic-download"></span>
+                        </a>
+                    </div>
+                </noscript>
+                            </h1>
+            <div class="timeline"> 
+                <div class="row">
+                    <div class="columns">
+                        <div class="timeline-graph"></div>
+                        <div class="timeline-text">
+                                                                                                                                                                <h2 class="icon-dot">
+                                Öffentliche Auslegung
+                                <span class="ic-ic-timeline-bullet icon"></span>
+                                                        </h2>
+                                                                                                            <h4 class="no-margin">
+            Zeitraum der Auslegung
+                            <span class="ic-ic-info js-popup" data-title="Hinweis" data-content="Nähere Informationen entnehmen Sie bitte den Auslegungsinformationen."></span>
+                    </h4>
+        <p>
+                    06.04.2022
+                            - 05.05.2022
+                </p>
+                                                                                                                        <h4 class="title-font">Auslegungsinformationen</h4>
+                <div class="document-list">
+                    <div class="list-item">
+                                                                <a target="_blank" class="link download" href="https://www.kreis-kleve.de/de/bekanntmachungen/bekanntmachung-der-genehmigungsverfahren-entsprechend-10-abs.-3-bundes-immissionsschutzgesetz-zur-errichtung-und-betrieb-von-zwei-windkraftanlagen-im-gebiet-der-stadt-kleve-antragssteller-naturwerk-kraftwerk-kleve-i-gmbh-und-die-naturwerk-kraftwerk-kleve-ii-gmbh/" title="Öffentliche Bekanntmachung">Öffentliche Bekanntmachung</a>
+            <span class="text">
+            (
+                        bekanntmachung-der-genehmigungsverfahren-entsprechend-10-abs.-3-bundes-immissionsschutzgesetz-zur-errichtung-und-betrieb-von-zwei-windkraftanlagen-im-gebiet-der-stadt-kleve-antragssteller-naturwerk-kraftwerk-kleve-i-gmbh-und-die-naturwerk-kraftwerk-kleve-ii-gmbh
+            <span class="downloadText"></span>
+            )
+            </span>
+                            </div>
+                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <h2 class="icon-dot icon-dot-small">
+                                <span class="ic-ic-bullet icon"></span>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+    </div>
+</div>
+
+
+
+
+
+<script>
+    $( document ).ready(function() {
+        $('a.download').each(function(index) {
+            var a = $(this);
+            var aParent = a.parent(); 
+            if(a){
+                if(a.length > 0){
+                    var href = a[0].href;
+                    var spanParent = aParent.find('span.text');
+                    if(spanParent){
+                        var span = spanParent.find('span.downloadText');
+                        if(href && span){
+                            getLinkFileSize('https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTA__/search-detail.psml?url=' + encodeURIComponent(href), span);
+                        }
+                    }
+                }
+            }
+        });
+        $('.zip-download').each(function(index) {
+            var docuuid = 'DD8450C1-B85A-4BED-91C0-9D218F00CB90';
+            var plugid = '/ingrid-group:ige-iplug-nw';
+            if(docuuid !== '' && plugid !== '') {
+                var element = $(this);
+                element.append('<span>Dokumentenarchiv (Zip) wird erstellt ...</span>');
+                var http = new XMLHttpRequest();
+                http.open('GET', 'https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQQ3JlYXRl/search-detail.psml?docuuid=' + docuuid + '&plugid=' + plugid, true);
+                http.onreadystatechange = function() {
+                    if (this.readyState == this.DONE) {
+                        if (this.status === 200) {
+                            element.find('span').addClass('is-hidden');
+                            if(this.response != "") {
+                                var content = '<a href="https://www.uvp-verbund.de/portal/_ns:ZzU3X181OHxpaHR0cFVSTERvd25sb2FkVVZQ/search-detail.psml?docuuid=DD8450C1-B85A-4BED-91C0-9D218F00CB90&plugid=/ingrid-group:ige-iplug-nw" title="Alle Dokumente als ZIP-Datei herunterladen"><span class="ic-ic-download"></span> </a>';
+                                content = content + '<span class="text"><span class="downloadText">' + convertFileSize(this.response, true, true) + '</span></span>'
+                                element.append(content);
+                            }
+                        }
+                    }
+                };
+                http.send();
+            }
+        });
+    });
+</script>                                    
+
+<!--  END: clear/decorator.vm -->			              </div>
+            <footer>
+    <div class="footer-buttons-bar show-for-medium hide-for-print">
+        <div class="social-buttons">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Bjsessionid%3D4F4D13F823DD5D6B146EF1B85FE2524D%3Fdocuuid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26docid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="Twitter">
+        <span class="ic-ic-twitter"></span><span class="text"></span>
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Bjsessionid%3D4F4D13F823DD5D6B146EF1B85FE2524D%3Fdocuuid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26docid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="Facebook">
+        <span class="ic-ic-facebook"></span><span class="text"></span>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Bjsessionid%3D4F4D13F823DD5D6B146EF1B85FE2524D%3Fdocuuid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26docid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="LinkedIn">
+        <span class="ic-ic-linkedin"></span><span class="text"></span>
+    </a>
+    <a href="whatsapp://send?text=https://www.uvp-verbund.de:443/trefferanzeige;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D?docuuid=DD8450C1-B85A-4BED-91C0-9D218F00CB90&docid=DD8450C1-B85A-4BED-91C0-9D218F00CB90&lang=de&plugid=/ingrid-group:ige-iplug-nw" class="button round social" target="_blank" title="WhatsApp">
+        <span class="ic-ic-whatsapp"></span><span class="text"></span>
+    </a>
+    <a href="https://www.xing.com/social_plugins/share?url=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Bjsessionid%3D4F4D13F823DD5D6B146EF1B85FE2524D%3Fdocuuid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26docid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="XING">
+        <span class="ic-ic-xing"></span><span class="text"></span>
+    </a>
+    <a href="mailto:?body=https%3A%2F%2Fwww.uvp-verbund.de%3A443%2Ftrefferanzeige%3Bjsessionid%3D4F4D13F823DD5D6B146EF1B85FE2524D%3Fdocuuid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26docid%3DDD8450C1-B85A-4BED-91C0-9D218F00CB90%26lang%3Dde%26plugid%3D%2Fingrid-group%3Aige-iplug-nw" class="button round social" target="_blank" title="E-Mail">
+        <span class="ic-ic-mailto"></span><span class="text"></span>
+    </a>
+    <button id="share-buttons" class="button round social share" title="ingrid.page.share">
+        <span class="ic-ic-share"></span>
+        <span class="text"></span>
+    </button>
+</div>                <div class="button-up">
+    <button type="button" class="button round social js-top" title="Nach oben">
+        <span class="ic-ic-angle-up"></span>
+    </button>
+</div>    </div>
+    <div class="footer">
+            <div class="row">
+            <div class="xsmall-24 small-24 medium-24 large-24 xlarge-24 columns">
+                                <div class="copyright">
+    <p class="copyright_text">&copy; 2022 Landesbetrieb Geoinformation und Vermessung</p>
+</div>
+            </div>
+            <div class="xsmall-24 small-24 medium-24 large-24 xlarge-24 columns">
+                    <div class="footer-menu-entries" role="navigation" aria-label="Navigation Footer">
+                                                                    <a href="https://www.uvp-verbund.de:443/kontakt;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Ihre Nachricht, Fragen oder Anregungen direkt an UVP" class="icon"><span class="text">Kontakt</span></a>
+                                                                <a href="https://www.uvp-verbund.de:443/impressum;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Inhaltlich und technisch Verantwortliche, Nutzungsbedingungen, Haftungsausschluss" class="icon"><span class="text">Impressum</span></a>
+                                                                          <a href="https://www.uvp-verbund.de:443/datenschutzbestimmung;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Unsere Verpflichtung zum Umgang mit persönlichen Informationen" class="icon"><span class="text">Datenschutz</span></a>
+                                                                <a href="https://www.uvp-verbund.de:443/barrierefreiheit;jsessionid=4F4D13F823DD5D6B146EF1B85FE2524D" title="Barrierefreiheit" class="icon"><span class="text">Barrierefreiheit</span></a>
+          </div>
+            </div>
+        </div>
+    </div>
+    <a href="" class="footer-top-link hide-for-medium js-top">Nach oben</a></footer>
+            <!-- Popup -->
+<div class="popup help-popup">
+    <div class="headline popup__header">
+        <p class="popup__title medium">Hilfe</p>
+        <button type="button" class="button round popup__close js-popup-close"><span class="ic-ic-cross"></span></button>
+    </div>
+    <div class="popup__content text-box">
+        <p></p>
+    </div>
+</div>            <!-- Global scripts -->
+<script src="/decorations/layout/ingrid/scripts/all.js"></script>
+
+<!-- Popup -->
+<script src="/decorations/layout/ingrid/scripts/popup.js"></script>
+
+<!-- Expand -->
+<script src="/decorations/layout/ingrid/scripts/expander.js"></script>
+
+<!-- Anchor target -->
+<script src="/decorations/layout/ingrid/scripts/anchor-target.js"></script>
+<script>
+    $('.js-anchor-target').anchorTarget();
+</script>
+
+<!-- Anchor navigation -->
+<script src="/decorations/layout/ingrid/scripts/anchor-navigation.js"></script>
+<script>
+    $('.js-anchor-navigation').anchorNavigation();
+</script>
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    spaceBetween: 10,
+    grabCursor: true,
+    updateOnWindowResize: true,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev'
+    },
+    scrollbar: {
+      el: '.swiper-scrollbar'
+    },
+  });
+</script>
+<script>
+    $(document).ready(function() { 
+    $( "a:not(:empty)" ).each(function( i ) {
+        var attr = $(this).attr('href');
+        if (typeof attr !== 'undefined' && attr !== false) {
+            if ( $(this).children().length == 0 ) {
+                $(this).html('<span>' + $(this).text() + '</span>');
+            }
+        }
+    });
+});
+</script>                </div>
+                <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.metaver.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://matomo.metaver.de/matomo.php?idsite=2&amp;rec=1" style="border:0" alt="" /></p></noscript>
+<!-- End Matomo Code -->            </body>
+</html>

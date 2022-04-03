@@ -1,7 +1,7 @@
-file1 = open('your_file.txt', 'r')
-Lines = file1.readlines()
+# file1 = open('your_file.txt', 'r')
+# Lines = file1.readlines()
 
-print(Lines)
+# print(Lines)
 
 # phrase_to_list = Lines.split(",")
 
