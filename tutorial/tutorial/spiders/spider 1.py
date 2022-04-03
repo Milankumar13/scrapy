@@ -31,9 +31,6 @@ class UVPSpider(scrapy.Spider):
 
     def subParse(self,response):
         subPageNo = response.meta['no']
-        print("############################################################################################")
-        print(response.url[-8:])
-        print("############################################################################################")
         ### Sub Task 1 ###
         filename = 'HTML File.txt'
         path = 'subPage'+ str(subPageNo)
@@ -65,11 +62,13 @@ class UVPSpider(scrapy.Spider):
         ### SUb Task 3 ###
         descDir = "Description File"
         descDir = path+"/"+descDir
-        down = response.xpath('//*[@class="ic-ic-download"]')
+        if (os.path.isdir(descDir) == False):
+            os.mkdir(descDir)
+        down = response.xpath('//*[@class="zip-download"]')
 
-        file_url = down.css('a::attr(href)').get()
+        pdf_link = down.css('a::attr(href)').get()
         print("###############################################################")
-        print(file_url)
+        print(pdf_link)
         print("###############################################################")
 
 
