@@ -20,23 +20,19 @@ class UVPSpider(scrapy.Spider):
 
         print(fullSubUrl)
 
+        for su in fullSubUrl:
+            yield scrapy.Request(url=su, callback = self.subParse,meta={'no':'1'})
+
+
         with open('ListOfSubUrl.txt', 'w') as f:
             for item in fullSubUrl:
                 f.write("%s\n" % item)
 
-class UVPSubExtraction(scrapy.Spider):
-    name = 'subPage'
-    def start_requests(self):
-        # urls = ['https://www.uvp-verbund.de/freitextsuche?rstart=0&currentSelectorPage=1']
-        subUrlFile = open('ListOfSubUrl.txt', 'r')
-        links = subUrlFile.readlines()
-        for url in links:
-            yield scrapy.Request(url=url, callback = self.parse, meta={'filepath': url})
-    
-    def parse(self,response):
+    def subParse(self,response):
+        subPageNo = response.meta['no']
         ### Sub Task 1 ###
         filename = 'HTML File.txt'
-        path = 'subPage1'
+        path = 'subPage'+ subPageNo
         if (os.path.isdir(path) == False):
             os.mkdir(path)
         
@@ -71,6 +67,56 @@ class UVPSubExtraction(scrapy.Spider):
         print(file_url)
         print("###############################################################")
 
+
+class UVPSubExtraction(scrapy.Spider):
+    name = 'subPage'
+    def start_requests(self):
+        # urls = ['https://www.uvp-verbund.de/freitextsuche?rstart=0&currentSelectorPage=1']
+        subUrlFile = open('ListOfSubUrl.txt', 'r')
+        links = subUrlFile.readlines()
+        for url in links:
+            yield scrapy.Request(url=url, callback = self.parse, meta={'filepath': url})
+        def parse(self,response):
+            ### Sub Task 1 ###
+            filename = 'HTML File.txt'
+            path = 'subPage1'
+            if (os.path.isdir(path) == False):
+                os.mkdir(path)
+            
+            with open(path+"/"+filename, "wb") as fp:
+                fp.write(response.body)
+            
+            ### SUb Task 2 ###
+            metaDir = "Meta Information"
+            metaDir = path+"/"+metaDir
+            if (os.path.isdir(metaDir) == False):
+                os.mkdir(metaDir)
+
+            with open(metaDir+"/title", "w") as fp:
+                for eachDiv in response.css('div.page-wrapper'):
+                    title = eachDiv.css('h1::text').get()
+                    fp.write(title)
+
+            with open(metaDir+"/date", "w") as fp:
+                for eachDiv in response.css('div.page-wrapper'):
+                    date = eachDiv.css('span::text').getall()
+                    fullDate = date[2]
+                    onlyDate = fullDate[-10:]
+                    fp.write(onlyDate)
+
+            ### SUb Task 3 ###
+            descDir = "Description File"
+            descDir = path+"/"+descDir
+            down = response.xpath('//*[@class="ic-ic-download"]')
+
+            file_url = down.css('a::attr(href)').get()
+            print("###############################################################")
+            print(file_url)
+            print("###############################################################")
+
+        
+    
+    
         # for eachBtn in response.css('div.ic-ic-download'):
         #             x = eachBtn.css('a::attr(href)').get()
         #             print("###############################################################")
