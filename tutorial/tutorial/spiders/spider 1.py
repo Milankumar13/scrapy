@@ -54,6 +54,11 @@ class UVPSubExtraction(scrapy.Spider):
                 title = eachDiv.css('h1::text').get()
                 fp.write(title)
 
+        with open(metaDir+"/date", "w") as fp:
+            for eachDiv in response.css('div.page-wrapper'):
+                date = eachDiv.css('span::text').getall()
+                fp.write(date[2])
+
         ### SUb Task 3 ###
         descDir = "Description File"
         descDir = path+"/"+descDir
